@@ -12,7 +12,7 @@ Open git bash to the directory containing this repository.
 cpp-warmup $ mkdir build
 cpp-warmup $ cd build
 cpp-warmup $ cmake -G "Visual Studio 16 2019" ..
-cpp-warmup $ make
+cpp-warmup $ start Cpp-Warmup.sln
 ```
 
 Then open the solution file to write and test your programs.
